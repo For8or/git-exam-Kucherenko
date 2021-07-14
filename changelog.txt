@@ -1,5 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+## [0.1.0] - 2021-07-14
+### Added
+- test.php file
+- invoke echo'test'; in test.php
 ## [0.0.1] - 2021-07-14
+### Added
+- invoke phpinfo(); in index.php
+## [0.0.0] - 2021-07-14
 ### Added
 - index.php file
